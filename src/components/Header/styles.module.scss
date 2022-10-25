@@ -1,0 +1,42 @@
+.headerContainer {
+    background: var(--white);
+    height: 6.5rem;
+    display: flex;
+    align-items: center;
+    padding: 2rem 4rem;
+    border-bottom: 1px solid var(--gray-100);
+
+    p {
+        margin-left: 2rem;
+        padding: 0.25rem 0 0.25rem 2rem;
+        border-left: 1px solid var(--gray-100);
+    }
+
+    span {
+        margin-left: auto;
+        text-transform: capitalize;
+    }
+}
+
+.toggle {
+	transform: scaleX(-1);
+	display: flex;
+	height: 100px;
+	width: 220px;
+	border-radius: 100px;
+
+	background: url("https://i.pinimg.com/564x/a5/5c/13/a55c132fec6ba35b063bc6d32c7cf7fb.jpg")
+		no-repeat center center;
+	background-size: cover;
+}
+
+.circle {
+	align-self: center;
+	height: 80px;
+	width: 80px;
+	border-radius: 100%;
+	border: 4px solid #fff;
+	transition: 0.5s;
+	background: #fff;
+	margin-left: 58%;
+}
