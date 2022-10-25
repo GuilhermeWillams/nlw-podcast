@@ -42,7 +42,7 @@ export default function Home({ latestEpisodes, allEpisodes }: HomeProps) {
           Controle de Volume (Feito dia 21/10/2022),
           PWA,
           Responsividade,
-          TemaDark (Ver a paleta OMNI rocketseat),
+          TemaDark (Ver a paleta OMNI Rocketseat),
           Electron (Transformar em Desktop) */}
         </h2>
         <ul>
