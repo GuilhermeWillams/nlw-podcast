@@ -18,6 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <img alt="React" width="80px" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img alt="Next" width="80px" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
 <img alt="TypeScript" width="80px" height="21px" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+<img alt="SASS" width="80px" height="21px" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
 
 ## 💻 Projeto
 
