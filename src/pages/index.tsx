@@ -37,12 +37,13 @@ export default function Home({ latestEpisodes, allEpisodes }: HomeProps) {
         <title>Home | NLW</title>
       </Head>
       <section className={styles.latestEpisodes}>
-        <h2>Últimos lançamentos (Próximos passos 
+        <h2>Últimos lançamentos 
+          {/* (Próximos passos 
           Controle de Volume (Feito dia 21/10/2022),
           PWA,
           Responsividade,
           TemaDark (Ver a paleta OMNI rocketseat),
-          Electron (Transformar em Desktop)
+          Electron (Transformar em Desktop) */}
         </h2>
         <ul>
           {latestEpisodes.map((episode, index) => {
